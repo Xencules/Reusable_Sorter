@@ -17,9 +17,9 @@ charactersCollection.sort();
 console.log(charactersCollection.data); */
 
 
-// LinkedList Sorter
-
-/* const linkedList = new LinkedList();
+// LINKEDLIST SORTER
+/* 
+const linkedList = new LinkedList();
 linkedList.add(50);
 linkedList.add(-120);
 linkedList.add(-167);
