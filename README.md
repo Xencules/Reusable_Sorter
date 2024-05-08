@@ -1,6 +1,6 @@
 # Reusable sorter
 
-Sorter that can receive an array, a string or a Linkedlist and return back a sorted list.
+Sorter that can receive an array, a string or a Linkedlist and sort it with bubble sort.
 
 
 Can be easily implemented into projects by adding the Sorter-folder into the project and applying the appropriate imports.
